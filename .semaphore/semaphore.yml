@@ -38,4 +38,4 @@ blocks:
         - name: Style Check
           commands:
             - pip install flake8
-            - flake8 martor_demo/ --max-line-length=100
+            - flake8 martor_demo/ --max-line-length=127
